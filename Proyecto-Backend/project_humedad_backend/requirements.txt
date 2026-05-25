@@ -1,0 +1,12 @@
+flask==3.0.3
+flask-cors==4.0.1
+flask-jwt-extended==4.6.0
+flask-socketio==5.3.6
+pymongo==4.7.2
+python-dotenv==1.0.1
+werkzeug==3.0.3
+requests==2.32.3
+numpy==1.26.4
+gunicorn==22.0.0
+eventlet==0.36.1
+#tensorflow==2.16.1
